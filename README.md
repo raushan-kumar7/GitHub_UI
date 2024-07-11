@@ -19,7 +19,7 @@ In this project, we cover the following tasks:
 To clone this repository, run the following command:
 
 ```sh
-git clone https://github.com/username/repository.git
+git clone https://github.com/raushan-kumar7/GitHub_UI.git
 cd repository
 ```
 
